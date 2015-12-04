@@ -2,3 +2,8 @@ h1 {
     font-size: 2em;
     text-align: center;
 }
+div {
+    width: 500px;
+    height: 100px;
+    text-align: center;
+}
