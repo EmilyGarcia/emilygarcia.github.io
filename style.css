@@ -7,7 +7,5 @@ h2 {
     height: 100px;
     max-width: 632px;
     text-align: center;
+    border-style: dotted;
 }
-reflection1.dotted {
-    	border-style: dotted;
-    }
