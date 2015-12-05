@@ -7,5 +7,7 @@ p {
     height: 100px;
     max-width: 632px;
     text-align: center;
-    p.dotted {border-style: dotted;}
 }
+p.dotted {
+    	border-style: dotted;
+    }
