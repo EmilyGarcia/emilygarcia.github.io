@@ -2,10 +2,9 @@ h1 {
     font-size: 2em;
     text-align: center;
 }
-div {
+p {
     width: 632px;
     height: 100px;
     max-width: 632px;
     text-align: center;
-    text-align: left;
 }
