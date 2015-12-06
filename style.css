@@ -10,11 +10,9 @@ h2 {
     height: 100px;
     max-width: 632px;
 }
-.paragraph-style {
+p {
 	text-align: center;
     background-color: white;
-}
-.center {
     margin: auto;
     width: 60%;
     border:3px solid #73AD21;
