@@ -9,7 +9,9 @@ h2 {
     width: 632px;
     height: 100px;
     max-width: 632px;
-    text-align: center;
+}
+p {
+	text-align: center;
     background-color: white;
 }
 .center {
