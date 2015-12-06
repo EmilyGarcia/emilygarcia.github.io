@@ -7,5 +7,7 @@ h2 {
     height: 100px;
     max-width: 632px;
     text-align: center;
-    border-style: dotted;
+}
+.dotted {
+	border-style: dotted;
 }
