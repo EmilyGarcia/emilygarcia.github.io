@@ -2,7 +2,7 @@ body {
 	background-color: darkblue;
 	margin: auto;
     width: 60%;
-    border:3px solid:white;
+    border:3px solid: #ffcccc;
     padding: 10px;
 }
 h1 {
@@ -17,7 +17,7 @@ p {
 	text-align: center;
 }
 .background-white {
-	background-color: white;
+	background-color: #ffcccc;
 }
 .center {
     border:10px solid: white;
