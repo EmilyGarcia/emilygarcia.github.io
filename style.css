@@ -10,6 +10,9 @@ h1 {
     font-family: VT323, Permanent Marker;
     width: 1000;
 }
+div{
+    padding: 10px 20px 20px 10px;
+}
 .p-text{
     font-family: Orbitron, Open Sans Condensed, sans-serif;
 }
