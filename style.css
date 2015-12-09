@@ -30,6 +30,7 @@ div{
     color: #ffB410;
 }
 .orange-border{
+    border-style: groove;
     border-color: #ffcc5c;
     border: 5px;
 }
