@@ -6,8 +6,9 @@ body {
     padding: 10px;
 }
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     font-family: VT323, Permanent Marker;
+    width: 100;
 }
 .white-text{
 	color: white;
@@ -17,7 +18,7 @@ h1 {
 }
 .orange-border{
     border-color: #ffcc5c;
-    border: 50px;
+    border: 5px;
 }
 .round-border{
     border-radius: 25px;
