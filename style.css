@@ -21,6 +21,9 @@ div{
 .right-side-by-side{
     float: right;
 }
+.left-side-by-side{
+    float: left;
+}
 .p-text{
     font-family: Orbitron, Open Sans Condensed, sans-serif;
 }
