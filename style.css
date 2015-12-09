@@ -9,7 +9,7 @@ h1{
     font-size: 4em;
     font-family: VT323, Permanent Marker;
     max-width: 100%;
-    padding-bottom: 30px;
+    padding:10px 10px 30px 10px;
 }
 div{
     padding: 30px 40px 40px 30px;
@@ -37,7 +37,6 @@ div{
 }
 .round-border{
     border-radius: 15px;
-
 }
 .coral-background{
     background-color: #ff6f69;
