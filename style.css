@@ -8,8 +8,17 @@ body {
 h1 {
     font-size: 3em;
 }
-.background-white {
-	background-color: #ffcccc;
+.white-text{
+	color: white;
+}
+.yellow-background{
+    background-color: #ffeead;
+}
+.orange-border{
+    border-color: #ffcc5c;
+}
+.coral-background{
+    #ff6f69
 }
 .center {
 	text-align: center;
