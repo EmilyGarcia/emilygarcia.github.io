@@ -11,6 +11,7 @@ h1 {
     width: 1000;
 }
 .p-text{
+
     font-family: Orbitron, Open Sans Condensed, sans-serif;
 }
 .white-text{
@@ -18,6 +19,9 @@ h1 {
 }
 .yellow-background{
     background-color: #ffeead;
+}
+.orange-text{
+    color: #ffcc5c;
 }
 .orange-border{
     border-color: #ffcc5c;
