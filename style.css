@@ -20,14 +20,14 @@ h1 {
     background-color: #ffeead;
 }
 .orange-text{
-    color: #ffcc5c;
+    color: #ffB410;
 }
 .orange-border{
     border-color: #ffcc5c;
     border: 5px;
 }
 .round-border{
-    border-radius: 25px;
+    border-radius: 15px;
     padding: 10px;
 }
 .coral-background{
