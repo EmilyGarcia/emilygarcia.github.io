@@ -7,8 +7,8 @@ body {
 }
 h1 {
     font-size: 4em;
-    font-family: VT323, Permanent Marker;
-    width: 100;
+    font-family: Open Sans Condensed, sans-serif, VT323, Permanent Marker;
+    width: 1000;
 }
 .white-text{
 	color: white;
