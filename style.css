@@ -16,11 +16,7 @@ h1{
 div{
     padding: 30px 40px 40px 30px;
 }
-.no-padding{
-    padding: 0px 0px 0px 0px;
-    height: 58px;
-    max-width: 150px; 
-}
+
 .right-side-by-side{
     float: right;
 }
