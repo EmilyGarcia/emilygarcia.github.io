@@ -15,7 +15,7 @@ div{
     padding: 30px 40px 40px 30px;
 }
 no-padding{
-    padding: 1px;
+    padding: 1px 1px 1px 1px;
 }
 .p-text{
     font-family: Orbitron, Open Sans Condensed, sans-serif;
