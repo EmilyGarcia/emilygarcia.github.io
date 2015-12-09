@@ -20,7 +20,8 @@ h1 {
     border: 2px;
 }
 .round-border{
-    border-radius: 20%;
+    border-radius: 25px;
+    padding: 20px;
 }
 .coral-background{
     background-color: #ff6f69;
