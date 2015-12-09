@@ -17,10 +17,14 @@ h1 {
 }
 .orange-border{
     border-color: #ffcc5c;
+    border: 1px;
 }
 .coral-background{
     background-color: #ff6f69;
 }
 .center {
 	text-align: center;
+}
+.left {
+    text-align: left;
 }
