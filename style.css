@@ -1,8 +1,8 @@
 body {
-	background-color: #e5fffa;
+	background-color: #88d8b0;
 	margin: auto;
     width: 60%;
-    border:3px solid: #ffcccc;
+    border:3px
     padding: 10px;
 }
 h1 {
@@ -12,7 +12,7 @@ h1 {
 	background-color: #ffcccc;
 }
 .center {
-	text-align: center
+	text-align: center;
     border:10px solid: white;
     padding: 10px;
 }
