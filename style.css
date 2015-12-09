@@ -3,13 +3,13 @@ body{
 	margin: auto;
     width: 60%;
     border:0;
-    padding:;
+    padding:0;
 }
 h1{
     font-size: 4em;
     font-family: VT323, Permanent Marker;
     width: 300%;
-    max-width: 200%;
+    max-width: 100%;
     padding:10px 10px 30px 10px;
 }
 div{
