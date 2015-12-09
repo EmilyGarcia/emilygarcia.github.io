@@ -14,6 +14,9 @@ h1{
 div{
     padding: 30px 40px 40px 30px;
 }
+no-padding{
+    padding: 0px;
+}
 .p-text{
     font-family: Orbitron, Open Sans Condensed, sans-serif;
 }
