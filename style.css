@@ -9,6 +9,7 @@ h1{
     font-size: 4em;
     font-family: VT323, Permanent Marker;
     width: 1000;
+    padding-bottom: 20px;
 }
 div{
     padding: 30px 40px 40px 30px;
