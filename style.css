@@ -16,8 +16,11 @@ h1 {
     background-color: #ffeead;
 }
 .orange-border{
-    border-color: #ffcc5c;
-    border: 1px;
+    border-bottom-color: #ffcc5c;
+    border: 2px;
+}
+.round-border{
+    border-radius: 60%;
 }
 .coral-background{
     background-color: #ff6f69;
