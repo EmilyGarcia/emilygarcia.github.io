@@ -16,8 +16,8 @@ h1 {
     background-color: #ffeead;
 }
 .orange-border{
-    border-bottom-color: #ffcc5c;
-    border: 2px;
+    border-color: #ffcc5c;
+    border: 50px;
 }
 .round-border{
     border-radius: 25px;
