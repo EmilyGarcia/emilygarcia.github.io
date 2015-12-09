@@ -19,6 +19,7 @@ div{
 }
 .white-text{
 	color: white;
+	text-shadow: 2px 2px 4px #cae6d9;
 }
 .grey-text{
     color: #333333;
@@ -36,7 +37,7 @@ div{
 }
 .round-border{
     border-radius: 15px;
-    padding: 30px;
+
 }
 .coral-background{
     background-color: #ff6f69;
