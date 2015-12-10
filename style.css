@@ -57,5 +57,5 @@ div{
     text-align: right;
 }
 .no-padding{
-    padding: ;
+    padding: 0 !important;
 }
