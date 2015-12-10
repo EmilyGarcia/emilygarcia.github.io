@@ -59,3 +59,6 @@ div{
 .no-padding{
     padding: 0 !important;
 }
+.small-padding{
+    padding: 10 !important;
+}
